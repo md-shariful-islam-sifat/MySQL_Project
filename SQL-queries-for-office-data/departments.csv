@@ -1,0 +1,10 @@
+department_id,department_name,location,manager_id,budget,established_year
+1,"  Engineering","DHAKA",9,5000000,"2015"
+2,"Human Resources","Chittagong  ",14,1500000,"2014"
+3,"  Data & Analytics  ","DHAKA",7,2000000,"2017"
+4,"Product & Design","dhaka",19,1800000,"2018"
+5,"  Sales & Marketing","CHITTAGONG",38,2500000,"2016"
+6,"Finance","Dhaka  ",24,1200000,"2013"
+7,"IT Support","SYLHET",13,900000,"2019"
+7,"IT Support","SYLHET",13,900000,"2019"
+2,"Human Resources","Chittagong  ",14,1500000,"2014"
